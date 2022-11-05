@@ -32,7 +32,7 @@
     "buildify": "*",
     "chrome": "0.1.0",
     "firefox": "0.0.1",
-    "jscs": "2.11.0",
+    "jscs": "3.0.7",
     "jshint": "^2.10.2",
     "karma": "0.13.22",
     "karma-chrome-launcher": "2.2.0",
